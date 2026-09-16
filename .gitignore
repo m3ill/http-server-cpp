@@ -1,0 +1,11 @@
+# CMake build output
+build/
+cmake-build-*/
+
+# JetBrains IDE files
+.idea/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
